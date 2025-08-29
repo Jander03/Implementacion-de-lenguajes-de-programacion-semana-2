@@ -1,9 +1,7 @@
-# Implementacion-de-lenguajes-de-programacion-semana-2
 <p align="left">
   <img src="https://github.com/user-attachments/assets/2cae9b13-d1de-4a5a-a827-643818c98091" width="200">
-  <h1 align="center">SafeFry: Kit Portable para la Evalucación de Aceite Vegetal</h1>
+  <h1 align="center">Implementación de Lengauajes de Programamción</h1>
 </p>
-
 
 Actividades de clase
 Alumnos:
