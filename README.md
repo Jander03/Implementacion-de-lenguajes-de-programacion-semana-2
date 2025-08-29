@@ -1,5 +1,5 @@
-Implemetancion de Lenguajes de Programación
-Actividades de clase
+# Implemetancion de Lenguajes de Programación
+## Actividades de clase
 Alumnos:
 - Matias Dario Huerta Cruz
 - Jander Huamani Salazar
