@@ -3,7 +3,9 @@
   <h1 align="center">Implementación de Lenguajes de Programamción</h1>
 </p>
 Actividades de clase
+</p>
 Alumnos:
+</p>
 - Matias Dario Huerta Cruz
 - Jander Huamani Salazar
 - Vanesa Rioja
